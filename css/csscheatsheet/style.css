@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.nand{
+    width: 200px;
+    margin: 20px 10px;
+    border-radius: 50px;
+    align-self: auto;
+
+}
+p.nan{
+    font-weight: bolder;
+    color: whitesmoke;
+    
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+   
+    
+}
